@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1024073569089",
+    "firebase_url": "https://geochatter-da5a6.firebaseio.com",
+    "project_id": "geochatter-da5a6",
+    "storage_bucket": "geochatter-da5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024073569089:android:932ece90174404f02c47c0",
+        "android_client_info": {
+          "package_name": "com.jerielng.geochatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024073569089-57op5p130k6dti0bs0g2gtjk26eb59n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5FHCdqXQX8u6Jh8RsnUCBlNu2fMslmVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024073569089-57op5p130k6dti0bs0g2gtjk26eb59n8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1024073569089-fsj8gvb7lkh3hlu7qlm9peksg40ifs6g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.jerielng.geochatter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
